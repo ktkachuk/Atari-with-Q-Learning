@@ -4,5 +4,6 @@ This notebook shows and explains the implementation of a Reinforcement Learning 
 
 
 
-
-![](atari.gif)
+<p align="center">
+  <img src="atari.gif" alt="animated" />
+</p>
