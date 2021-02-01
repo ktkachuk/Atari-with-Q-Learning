@@ -6,7 +6,7 @@ This notebook shows and explains the implementation of a Reinforcement Learning 
 
 
 <p align="center">
-  <img src="atari.gif" alt="animated" />
+  <img src="Images/atari.gif" alt="animated" />
 </p>
 
 
