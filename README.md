@@ -10,6 +10,9 @@ The Jupyter notebook contains all explanations, illustrations, equations and the
 
 A pretrained model was also added to serve as a showcase. The model is not fully converged, but archives an average score of 23 points per game.
 
+
+
+
 ## <center> References
 Mnih, Volodymyr, et al. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602. 2013<br>
 https://arxiv.org/pdf/1312.5602.pdf?source=post_page---------------------------
